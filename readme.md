@@ -1,4 +1,4 @@
-# 👨‍💻 Jonas Silveira de Avila  
+# 👨‍💻 Eae eu sou Jonas Silveira de Avila  
 
 Bem-vindo ao meu espaço no GitHub! 🚀 Aqui compartilho projetos que refletem minha paixão por tecnologia, inovação e resolução de problemas reais.  
 
@@ -8,24 +8,23 @@ Bem-vindo ao meu espaço no GitHub! 🚀 Aqui compartilho projetos que refletem 
 Sou estudante de Engenharia de Computação e desenvolvedor com um histórico de experiências diversificadas e empreendedoras. Minha trajetória inclui:  
 - 🎓 **Formação:** Engenharia de Computação, focando em sistemas inovadores e sustentáveis.  
 - 💼 **Empreendedorismo:** Co-fundador da Ávila Climatização, consolidada no mercado com um excelente histórico de resultados.  
-- 🌟 **Experiência prática:** De manutenção de eletrônicos (incluindo trabalho voluntário em enchentes) à criação de sistemas web e soluções em TI.  
+- 🌟 **Experiência prática:** De manutenção de eletrônicos (incluindo trabalho voluntário em enchentes) à criação de alguns sistemas web.  
 
 Estou sempre aprendendo e desenvolvendo projetos que unam tecnologia e impacto positivo para a sociedade.  
 
 ---
 
 ## 💡 Principais Projetos  
-- **[Plataforma Online para Agendamento de Consultas Médicas](https://github.com/Jonassavila):** Sistema web que conecta pacientes e profissionais de saúde.  
-- **Integração de Energia Fotovoltaica:** Desenvolvimento de sistemas de armazenamento on-grid e off-grid.  
-- **Layouts Modernos:** Criação de páginas web com HTML, CSS, e experimentação com design responsivo e interativo.  
+- **[Plataforma Online para Agendamento de Consultas Médicas](https://github.com/Jonassavila):** Sistema web que conecta pacientes e profissionais de saúde.(em andamento)
+- **Layouts Modernos:** Criação de páginas web com HTML, CSS, e experimentação com design responsivo e interativo. (poucos projetos pois sou iniciante)
 
 ---
 
 ## ⚙️ Habilidades Técnicas  
-- **Linguagens de Programação:** Python, JavaScript, HTML, CSS.  
-- **Desenvolvimento Frontend:** React, Bootstrap, design responsivo.  
+- **Linguagens de Programação:** JavaScript, HTML, CSS, Python.  
+- **Desenvolvimento Frontend:** design responsivo.  
 - **Ferramentas:** Git, Figma, VS Code.  
-- **Áreas de Interesse:** Sustentabilidade, integração de energia, e automação.  
+- **Áreas de Interesse:** Programação, front-end e back-end.  
 
 ---
 

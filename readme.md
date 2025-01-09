@@ -32,7 +32,7 @@ Estou sempre aprendendo e desenvolvendo projetos que unam tecnologia e impacto p
 ## 🌍 Conecte-se Comigo  
 - 🌐 **GitHub:** [github.com/Jonassavila](https://github.com/Jonassavila)  
 - 💼 **LinkedIn:** [linkedin.com/in/jonas-silveira-de-avila](https://www.linkedin.com/in/jonas-silveira-de-avila)  
-- 📧 **E-mail:** jonas.avila@gmail.com  
+- 📧 **E-mail:** jonas.silveiradeavila@gmail.com  
 
 ---
 

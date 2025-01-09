@@ -15,7 +15,7 @@ Sempre em busca de aprender mais e criar soluções tecnológicas que façam a d
 ---
 
 ## 💡 Principais Projetos  
-- **[Plataforma Online para Agendamento de Consultas Médicas](https://github.com/Jonassavila):** Sistema web que conecta pacientes e profissionais de saúde. (em andamento)  
+- **[Plataforma Online para Agendamento de Consultas Médicas](https://github.com/Jonassavila/projeto_docline):** Sistema web que conecta pacientes e profissionais de saúde. (em andamento)  
 - **Layouts Modernos:** Desenvolvimento de páginas web utilizando HTML, CSS, com foco em design responsivo e interativo. (Projetos iniciais, com planos de expansão)
 
 ---

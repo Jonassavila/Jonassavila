@@ -30,8 +30,6 @@ Sempre em busca de aprender mais e criar soluções tecnológicas que façam a d
 
 ## 📊 Estatísticas do GitHub  
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Jonassavila.Jonassavila)  
-
 ### 🖥️ Principais Linguagens  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonassavila&layout=compact&theme=radical)
 

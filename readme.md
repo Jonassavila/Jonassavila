@@ -1,30 +1,42 @@
-# 👨‍💻 Eae eu sou Jonas Silveira de Avila  
+# 👨‍💻 Eae, eu sou Jonas Silveira de Avila  
 
-Bem-vindo ao meu espaço no GitHub! 🚀 Aqui compartilho projetos que refletem minha paixão por tecnologia, inovação e resolução de problemas reais.  
+Bem-vindo ao meu espaço no GitHub! 🚀 Aqui compartilho meus projetos, sempre buscando aliar tecnologia, inovação e soluções para problemas reais.
 
 ---
 
 ## 🛠 Sobre Mim  
-Sou estudante de Engenharia de Computação e desenvolvedor com um histórico de experiências diversificadas e empreendedoras. Minha trajetória inclui:  
-- 🎓 **Formação:** Engenharia de Computação, focando em sistemas inovadores e sustentáveis.  
-- 💼 **Empreendedorismo:** Co-fundador da Ávila Climatização, consolidada no mercado com um excelente histórico de resultados.  
-- 🌟 **Experiência prática:** De manutenção de eletrônicos (incluindo trabalho voluntário em enchentes) à criação de alguns sistemas web.  
+Sou estudante de Engenharia de Computação e desenvolvedor, com uma trajetória marcada por experiências práticas e empreendedoras. Minha jornada inclui:  
+- 🎓 **Formação:** Engenharia de Computação, com foco em sistemas inovadores e sustentáveis.  
+- 💼 **Empreendedorismo:** Co-fundador da Ávila Climatização, empresa com um histórico sólido no mercado.  
+- 🌟 **Experiência prática:** De manutenção de eletrônicos (trabalho voluntário em enchentes) à criação de sistemas web.  
 
-Estou sempre aprendendo e desenvolvendo projetos que unam tecnologia e impacto positivo para a sociedade.  
+Sempre em busca de aprender mais e criar soluções tecnológicas que façam a diferença!
 
 ---
 
 ## 💡 Principais Projetos  
-- **[Plataforma Online para Agendamento de Consultas Médicas](https://github.com/Jonassavila):** Sistema web que conecta pacientes e profissionais de saúde.(em andamento)
-- **Layouts Modernos:** Criação de páginas web com HTML, CSS, e experimentação com design responsivo e interativo. (poucos projetos pois sou iniciante)
+- **[Plataforma Online para Agendamento de Consultas Médicas](https://github.com/Jonassavila):** Sistema web que conecta pacientes e profissionais de saúde. (em andamento)  
+- **Layouts Modernos:** Desenvolvimento de páginas web utilizando HTML, CSS, com foco em design responsivo e interativo. (Projetos iniciais, com planos de expansão)
 
 ---
 
 ## ⚙️ Habilidades Técnicas  
 - **Linguagens de Programação:** JavaScript, HTML, CSS, Python.  
-- **Desenvolvimento Frontend:** design responsivo.  
+- **Desenvolvimento Frontend:** Foco em design responsivo e interatividade.  
 - **Ferramentas:** Git, Figma, VS Code.  
-- **Áreas de Interesse:** Programação, front-end e back-end.  
+- **Áreas de Interesse:** Programação em geral, desenvolvimento front-end e back-end, e criação de soluções inovadoras.  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Jonassavila.Jonassavila)  
+
+### 🖥️ Principais Linguagens  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonassavila&layout=compact&theme=radical)
+
+### 📈 Estatísticas de Perfil  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jonassavila&show_icons=true&theme=radical)
 
 ---
 
@@ -35,6 +47,6 @@ Estou sempre aprendendo e desenvolvendo projetos que unam tecnologia e impacto p
 
 ---
 
-💬 Sinta-se à vontade para explorar meus projetos e colaborar! Estou sempre aberto a novas ideias e oportunidades para criar algo incrível juntos.  
+💬 Sinta-se à vontade para explorar meus projetos, dar sugestões ou até colaborar! Estou sempre aberto a novas ideias e desafios para juntos criarmos soluções inovadoras.  
 
-*"A tecnologia é mais do que ferramentas – é o poder de transformar vidas e o mundo ao nosso redor."*  
+*"A tecnologia vai além das ferramentas – ela tem o poder de transformar vidas e impactar positivamente o mundo."*
